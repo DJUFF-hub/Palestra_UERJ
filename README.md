@@ -1,2 +1,2 @@
 # Palestra_UERJ
-tamo ai
+Feita por João Mendes, 24/11/2026
